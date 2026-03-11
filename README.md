@@ -6,11 +6,12 @@
 </p>
 
 <p align="center">
-    <img src="200.gif" width="100"> 
+    <img src="200.gif"> 
+    
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=500&lines=Aprendiendo+Python;Explorando+GitHub;Amante+de+la+programación"/>
+
 </p>
 
-<p>
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=500&lines=Aprendiendo+Python;Explorando+GitHub;Amante+de+la+programación"/>
 </p>
 
 ### ¿QUIEN SOY?
@@ -30,8 +31,9 @@ Soy un joven apasionado por la tecnologia, siempre curioso a los difrentes desfi
 ![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight)
 
 </p>
-### STACK TECNOLOGICO
-#
+
+### TECNOLOGIA Y HERRAMIENTAS.
+
 <p align="center">
 
 ![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode)
