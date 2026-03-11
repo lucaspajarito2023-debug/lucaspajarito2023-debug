@@ -1,17 +1,13 @@
 
-
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lucas%20Pajarito&fontSize=40&fontAlignY=35&animation=twinkling"/>
 </p>
 
 <p align="center">
     <img src="200.gif"> 
-    
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=500&lines=Aprendiendo+Python;Explorando+GitHub;Amante+de+la+programación"/>
-
 </p>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=500&lines=Aprendiendo+Python;Explorando+GitHub;Amante+de+la+programación"/>
 </p>
 
 ### ¿QUIEN SOY?
