@@ -7,7 +7,7 @@
     <img src="200.gif"> 
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=500&lines=Aprendiendo+Python;Explorando+GitHub;Amante+de+la+programación"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=0000FF&size=30&center=true&vCenter=true&width=500&lines=Aprendiendo+Python;Explorando+GitHub;Amante+de+la+programación"/>
 </p>
 
 ### ¿QUIEN SOY?
