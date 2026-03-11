@@ -24,7 +24,7 @@ Soy un joven apasionado por la tecnologia, siempre curioso a los difrentes desfi
 
 ![python](https://github-readme-stats.vercel.app/api?username=lucaspajarito2023-debug&theme=radical&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=lucaspajarito2023-debug&theme=tokyonight)
 
 </p>
 
