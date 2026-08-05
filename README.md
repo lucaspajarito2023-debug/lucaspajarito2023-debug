@@ -97,12 +97,13 @@
 
 
 <div align="center">
+
   <img height="170"
      src="https://github-readme-stats.vercel.app/api?username=lucaspajarito2023-debug&show_icons=true&theme=tokyonight&hide_border=true"
      alt="GitHub stats" />
 
   <img height="170"
-       src="https://github-readme-streak-stats.herokuapp.com?username=lucaspajarito2023-debug&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+       src="https://github-readme-streak-stats.herokuapp.com?user=lucaspajarito2023-debug&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
        alt="GitHub streak" />
 </div>
 
