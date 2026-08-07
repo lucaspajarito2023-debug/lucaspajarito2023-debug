@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <a href="https://lucaspajarito2023-debug.github.io/PORTAFOLIO-oficial./">
+  <a href="https://lucaspajarito2023-debug.github.io/portafolio_profesional/">
     <img src="https://img.shields.io/badge/Portafolio-Disponible-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
   </a>
   <a href="https://github.com/lucaspajarito2023-debug?tab=repositories">
