@@ -60,7 +60,7 @@
 ## Stack principal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,github,html,css,js,mysql,nodejs,git,docker,vscode&perline=10" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=github,html,css,js,mysql,postgres,nodejs,git,docker,vscode&perline=11" alt="Tech stack" />
 </div>
 
 ---
@@ -95,13 +95,18 @@
 ## Actividad en GitHub
 
 <div align="center">
-  <img height="170"
-       src="https://github-readme-streak-stats.herokuapp.com?user=lucaspajarito2023-debug&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
-       alt="GitHub streak" />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucaspajarito2023-debug&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes"
-       alt="Contribution graph" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaspajarito2023-debug&theme=tokyonight" alt="Detalles del perfil" width="98%" />
 </div>
+
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=lucaspajarito2023-debug&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=1B1F3B&title_color=00B4D8&icon_color=90E0EF&text_color=FFF3E4" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucaspajarito2023-debug&layout=compact&theme=radical&hide_border=true&bg_color=1B1F3B&title_color=00B4D8&text_color=FFF3E4" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=lucaspajarito2023-debug&theme=radical&hide_border=true&background=1B1F3B&ring=00B4D8&fire=90E0EF&currStreakLabel=FFF3E4" alt="GitHub streak" />
+</div>
+
 
 ---
 
@@ -121,4 +126,4 @@
 
 ---
 
-**Perfil actualizado:** Julio 2026
+**Perfil actualizado:** Septiembre 2026
